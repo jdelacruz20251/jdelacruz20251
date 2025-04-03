@@ -1,16 +1,45 @@
-## Hi there 👋
+### Hi there 👋 I'm Steve Lee!
 
-<!--
-**stevelee577/stevelee577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a freshman student at **Jacobo Z Gonzales Memorial School of Arts and Trade**, currently diving into the world of **programming and digital creativity**.
 
-Here are some ideas to get you started:
+🎨 As someone passionate about **art and technology**, my goal is to **combine AI with visual arts** to build creative, intelligent, and impactful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🔧 What I'm Learning
+
+- 💻 Basic programming in **Python** and **JavaScript**
+- 🤖 Introduction to **AI** and **machine learning**
+- 🧠 Exploring creative applications of AI, such as:
+  - AI-generated art
+  - Interactive web experiences
+  - Tools for digital artists
+
+---
+
+#### 🌱 My Current Goals
+
+- Build simple projects to improve my coding skills
+- Contribute to beginner-friendly open-source projects
+- Create my first AI-powered art project before the end of the year!
+
+---
+
+#### 📌 Projects I'm Planning
+
+- 🎨 AI-powered drawing assistant
+- 🧑‍🎨 Style transfer tool for turning photos into art
+- 🌐 Personal portfolio website with interactive design
+
+---
+
+#### 📫 How to reach me
+
+Feel free to connect, collaborate, or just say hi!
+
+📮 Email: [stevelee477@tesdajzgmsat.ml]  
+
+---
+
+> “Art is not what you see, but what you make others see.” — Edgar Degas  
+> I believe code can be a brush, and AI the canvas 🧠🎨
