@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Steve Lee!
+### Hi there 👋 I'm Jayson Dela Cruz!
 
 🎓 I'm a freshman student at **Jacobo Z Gonzales Memorial School of Arts and Trade**, currently diving into the world of **programming and digital creativity**.
 
